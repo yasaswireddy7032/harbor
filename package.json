@@ -1,0 +1,12 @@
+{
+  "name": "harbor",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A private, trauma-informed space for women who have experienced sexual violence. Runs entirely on the device.",
+  "scripts": {
+    "test": "node --test tests/",
+    "start": "python3 -m http.server 8790 --directory web"
+  },
+  "license": "MIT"
+}
