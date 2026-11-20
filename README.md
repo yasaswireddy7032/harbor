@@ -4,6 +4,8 @@ A private place for women who have experienced sexual violence to say what they 
 
 Many survivors never tell anyone. Shame, self-blame and the fear of not being believed are a big part of why. Harbor is built for the moment before someone is ready to call a hotline or tell a friend. She can type, or just tap how she feels, and get a reply that believes her, never asks "why", and never asks for details. When she's ready, she can find real people, her options, and other women who have been through it.
 
+**Try it:** [yasaswireddy7032.github.io/harbor](https://yasaswireddy7032.github.io/harbor/) (works best on a phone; add it to your home screen).
+
 **Everything runs on her phone.** There is no server, no account, no analytics and no network request with anything she writes. Anything she chooses to keep is encrypted on the device with her passcode.
 
 > Harbor is an independent project, not a clinical tool. It hasn't been reviewed by a rape crisis center yet, and that review is the next step before anyone relies on it.
