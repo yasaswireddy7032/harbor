@@ -51,7 +51,7 @@ npm test                 # 14 listener tests (node --test, no dependencies)
 npm start                # http://localhost:8790
 ```
 
-It's a static site, so it deploys to GitHub Pages as is (point Pages at `/web`). HTTPS turns on the service worker, so it works offline after the first visit.
+It's a static site. `.github/workflows/pages.yml` runs the tests and publishes `/web` to GitHub Pages on every push to main. HTTPS turns on the service worker, so it works offline after the first visit.
 
 ## What I'd do next
 
